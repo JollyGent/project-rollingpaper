@@ -2,6 +2,32 @@
   text-align: center;
 }
 
+
+#UI configuration
+input {
+  border : none;
+  outline: none;
+  font-size: 15px;
+  height: 34px;
+  vertical-align: middle;
+  padding: 0 18px;
+  width: 500px;
+  border-radius: 10px;
+}
+
+button {
+  position: relative;
+  vertical-align: middle;
+  font-size: 15px;
+  left:9px;
+  top:20px; 
+  width:100px;
+  height: 50px;
+  cursor:pointer;
+  border-radius: 10px;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
