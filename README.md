@@ -5,5 +5,14 @@ occasions such as graduations or birthdays.
 
 This project is created to digitilise that.
 
+## Roadmap
+
+- [x] Build Backend using Java with SpringBoot.
+- [x] Test that the API calls work correctly.
+- [x] Build Frontend prototype with React.
+- [x] Test with the API created to make sure that the API interaction works properly.
+- [ ] Link and refactor.
+- [ ] Host!
+
 
     
