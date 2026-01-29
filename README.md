@@ -11,7 +11,7 @@ This project is created to digitilise that.
 - [x] Test that the API calls work correctly.
 - [x] Build Frontend prototype with React.
 - [x] Test with the API created to make sure that the API interaction works properly.
-- [ ] Link and refactor.
+- [x] Link and refactor.
 - [ ] Host!
 
 
