@@ -55,6 +55,15 @@ button {
   color: white;
 }
 
+.App-intro{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 20px;
+  color:#4F4D46;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+
 .App-link {
   color: #61dafb;
 }

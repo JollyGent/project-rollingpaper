@@ -2,6 +2,8 @@
 import React, { useEffect, useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Post from './Post';
+import { Route, Router } from 'react-router-dom';
 
 
 const App = () => {
@@ -30,9 +32,8 @@ const App = () => {
       <header className="App-header">
         <h1 style={{color:'#1C1C1C'}}>RollingPaper</h1>
 
-        <input className="Message" placeholder="Say something about me..."/>
-        <button>Post</button>
-
+        <Post/>
+        
         <div className="App-intro">
           {messages.map(message =>
             <div key={message.id}>
