@@ -5,6 +5,12 @@ occasions such as graduations or birthdays.
 
 This project is created to digitilise that.
 
+## Tech Stacks 
+- Java
+- Spring Boot
+- React/JavaScript/CSS for Frontend
+- Docker
+
 ## Roadmap
 
 - [x] Build Backend using Java with SpringBoot.
