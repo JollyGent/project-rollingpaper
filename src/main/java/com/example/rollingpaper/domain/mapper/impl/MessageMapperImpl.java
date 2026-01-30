@@ -7,7 +7,7 @@ import com.example.rollingpaper.domain.entity.Message;
 import com.example.rollingpaper.domain.mapper.MessageMapper;
 import org.springframework.stereotype.Component;
 
-@Component //marked as bean
+@Component
 public class MessageMapperImpl implements MessageMapper {
     @Override
     public PostMessageRequest fromDto(PostMessageRequestDto dto) {
