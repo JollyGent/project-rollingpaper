@@ -5,7 +5,7 @@ import org.hibernate.validator.constraints.Length;
 
 public record PostMessageRequestDto(
         @NotBlank (message = ERROR_MESSAGE_LENGTH)
-        @Length(max = 1000, message = ERROR_MESSAGE_LENGTH)
+        @Length(max = 280, message = ERROR_MESSAGE_LENGTH)
         String message
 ) {
 
