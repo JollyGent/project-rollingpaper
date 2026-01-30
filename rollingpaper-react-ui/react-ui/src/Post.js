@@ -10,9 +10,8 @@ const Post = () => {
 
     const postMessage = (e) => {
 
-        //const message = {message};
-        
-        fetch('api/v1/messages', {
+        //fetch(`${process.env.REACT_APP_API_URL}`, {
+        fetch("api/v1/messages", {
             method : 'POST',
             headers: {"Content-Type" : "application/json"},
             body: JSON.stringify(data)
