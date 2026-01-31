@@ -10,7 +10,7 @@ This project is created to digitilise that.
 Frontpage:
 <img width="1605" height="744" alt="image" src="https://github.com/user-attachments/assets/e0a36cc3-983e-47d2-8cce-6cad08a1341b" />
 
-The page simply looks like this, and all you have to do is to express yourself on what advice, feedbacks and thoughts you have about the person, and click 'Post.'
+The page simply looks like this, and all you have to do is to express yourself on what advice, feedbacks and thoughts you have about the person in under 280 characters, and click 'Post'. 
 
 After sending the message, the frontpage updates:
 <img width="1605" height="744" alt="image" src="https://github.com/user-attachments/assets/b3a6c16c-f734-4b8c-bac9-fafcb2af9483" />
@@ -27,7 +27,7 @@ As more 'thoughts' are gathered and the list gets longer, user can scroll throug
 ## Credits
 - Render - Used for deployment of the Web Service.
 - Neon - Used for PostgreSQL database.
-- Netlify - For allowing to host the Frontend
+- Netlify - Used to host the Frontend for the client side.
  
 ## Roadmap
 
@@ -37,6 +37,12 @@ As more 'thoughts' are gathered and the list gets longer, user can scroll throug
 - [x] Test with the API created to make sure that the API interaction works properly.
 - [x] Link and refactor.
 - [x] Host!
+
+## Possible long-term goals 
+
+-Add 'Like' and 'Dislike' feature to express how much you approve/disapprove of someone's posts.
+-Add 'Report' feature to report explicit/inappropriate comments, or have a language filtering system.
+-Expand the application to allow user credentials from different social networks.
 
 This project was fully developed from Backend to Frontend and is owned by Minwoo Ju.
 
