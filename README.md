@@ -5,12 +5,30 @@ occasions such as graduations or birthdays.
 
 This project is created to digitilise that.
 
+## The App
+
+Frontpage:
+<img width="1605" height="744" alt="image" src="https://github.com/user-attachments/assets/e0a36cc3-983e-47d2-8cce-6cad08a1341b" />
+
+The page simply looks like this, and all you have to do is to express yourself on what advice, feedbacks and thoughts you have about the person, and click 'Post.'
+
+After sending the message, the frontpage updates:
+<img width="1605" height="744" alt="image" src="https://github.com/user-attachments/assets/b3a6c16c-f734-4b8c-bac9-fafcb2af9483" />
+
+As more 'thoughts' are gathered and the list gets longer, user can scroll through to read them...like a rolling paper!
+
 ## Tech Stacks 
 - Java
 - Spring Boot
+- PostgreSQL
 - React/JavaScript/CSS for Frontend
 - Docker
 
+## Credits
+- Render - Used for deployment of the Web Service.
+- Neon - Used for PostgreSQL database.
+- Netlify - For allowing to host the Frontend
+ 
 ## Roadmap
 
 - [x] Build Backend using Java with SpringBoot.
@@ -18,7 +36,8 @@ This project is created to digitilise that.
 - [x] Build Frontend prototype with React.
 - [x] Test with the API created to make sure that the API interaction works properly.
 - [x] Link and refactor.
-- [ ] Host!
+- [x] Host!
 
+This project was fully developed from Backend to Frontend and is owned by Minwoo Ju.
 
     
