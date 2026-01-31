@@ -16,7 +16,7 @@ import java.util.List;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://delightful-strudel-06ad7f.netlify.app/")
 @RequestMapping(path = "api/v1/messages")
 public class RollingPaperController {
 
@@ -28,7 +28,6 @@ public class RollingPaperController {
         this.rollingPaperService = rollingPaperService;
         this.messageMapper = messageMapper;
     }
-
 
 
     @PostMapping
