@@ -38,13 +38,6 @@ As more 'thoughts' are gathered and the list gets longer, user can scroll throug
 - [x] Link and refactor.
 - [x] Host!
 
-## Possible long-term goals 
-
-- Mobile App.
-- Add 'Like' and 'Dislike' feature to express how much you approve/disapprove of someone's posts.
-- Add 'Report' feature to report explicit/inappropriate comments, or have a language filtering system.
-- Expand the application to allow user credentials from different social networks.
-
 This project was fully developed from Backend to Frontend and is owned by Minwoo Ju.
 
     
